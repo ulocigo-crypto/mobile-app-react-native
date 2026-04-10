@@ -1,0 +1,28 @@
+{
+  "status": "healthy",
+  "timestamp": "2024-10-27T10:30:00.000Z",
+  "appVersion": "1.2.3",
+  "environment": "production",
+  "deviceInfo": {
+    "platform": "iOS",
+    "osVersion": "17.1",
+    "model": "iPhone 15 Pro Max",
+    "manufacturer": "Apple"
+  },
+  "metrics": {
+    "cpuUsage": 0.15,
+    "memoryUsage": 0.6,
+    "diskSpaceFree": 12000000000,
+    "networkLatency": 25
+  },
+  "features": {
+    "pushNotificationsEnabled": true,
+    "locationServicesEnabled": true,
+    "cameraAccessGranted": true
+  },
+  "errors": [],
+  "warnings": [],
+  "instanceId": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+  "userId": "user123",
+  "sessionId": "session456"
+}
